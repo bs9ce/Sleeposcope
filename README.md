@@ -6,11 +6,16 @@ ground-truth labels for the person's state. For more detail I refer you to my [b
 
 Organization of this project:
 
-Sleeposcope
-├── README.md      <- The top-level README for developers using this project.
-├── data		   <- This directory contains subject directories, each of which
-│                     contains a number of .csv files. These are the raw data
-│                     files. Actual data files are not provided here due to
+> Sleeposcope \
+
+
+
+
+
+>├── README.md      <- The top-level README for developers using this project. \
+>├── data		       <- This directory contains subject directories, each of which \
+>│                  contains a number of .csv files. These are the raw data \
+>│                     files. Actual data files are not provided here due to \
 │                     their proprietary nature.
 │
 └── src            <- Source code for use in this project.
