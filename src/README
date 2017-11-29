@@ -1,0 +1,8 @@
+Scripts: 
+
+1. pre_process_subject_data.py: 
+Only run if you have new subject data to add. It adds new subject data to a postgreSQL database named 'sleeposcope', in a table named 'all_subjects_table' if subject data is already in that table, it will throw an exception. 
+
+
+Libraries:
+1. Sleeposcope module: contains all functions and exceptions used in the project.
