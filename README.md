@@ -1,7 +1,7 @@
 The goal of this project was to use recordings from a mattress-embedded
 accelerometer to determine whether a person is asleep, awake in bed, or not in
 bed. Raw accelerometer signal is provided in csv format at 1Hz, alongside
-ground-truth labels for the person's state. For more detail I refer you to my [blog post](http: bitly.com/Sleeposcope)
+ground-truth labels for the person's state. For more detail I refer you to my [blog post](https:bitly.com/Sleeposcope).
 
 
 Organization of this project:
