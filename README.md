@@ -14,13 +14,13 @@ Organization of this project:
 │                     files. Actual data files are not provided here due to
 │                     their proprietary nature.
 │
-└── src                <- Source code for use in this project.
+└── src            <- Source code for use in this project.
     ├── sleeposcope_modules  <- modules used by scripts throughout the project
     │   └── __init__.py
     │   └── preprocessing_module.py
     │   └── sanity_check_module.py
     │   └── talk_to_sql_module.py  
-    └── pre_process_subject_data.py <- Reads in the data for an individual
+    └── pre_process_subject_data.py     <- Reads in the data for an individual
     subject (i.e., one subject at a time) from csv files in a subfolder of the
     "data" directory, creates a pandas dataframe and adds the current subject's
     data to an existing database, specified as DB_NAME, containing other
